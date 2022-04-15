@@ -1,1 +1,0 @@
-This is a stripped down version of OCSORT that runs on a detection file that was passed to it from MATLAB.
